@@ -6,7 +6,6 @@
 int main()
 {
     std::string s = "Hello";
-
     std::cout << s << " Test";
     return 0;
 }

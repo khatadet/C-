@@ -12,7 +12,7 @@ int main()
     int y = 10;
     for (int i = 0; i <= y; i++)
     {
-        for (int j = 0; j <= 3 * y; j++)
+        for (int j = 0; j <= 2 * y; j++)
         {
             printf("%5d", i * j);
         }
@@ -21,7 +21,7 @@ int main()
     cout << endl;
     for (int i = 0; i <= y; i++)
     {
-        for (int j = 0; j <= 3 * y; j++)
+        for (int j = 0; j <= 2 * y; j++)
         {
             cout << setw(5) << i * j;
         }

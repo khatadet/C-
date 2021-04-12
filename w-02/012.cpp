@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int y =100;
+    int y =10;
     for(int i = 0; i<=y*3;i++){
        
         cout << setw(3)<<i;

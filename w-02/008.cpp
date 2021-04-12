@@ -10,13 +10,13 @@ int main()
     switch (s)
     {
     case 'x':
-        cout << "value = x";
+        cout << "value = x 0225";
         break;
     case 'y':
-        cout << "value = y";
+        cout << "value = y 3566";
         break;
     case 'z':
-        cout << "value = z";
+        cout << "value = z 6468";
         break;
     default:
         cout << "other value";

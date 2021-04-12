@@ -11,5 +11,8 @@ int main()
             break;
         }
     }while(i<10);
+
+    cout <<endl<< "end";
+    
     return 0;
 }
