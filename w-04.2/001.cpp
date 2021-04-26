@@ -1,6 +1,3 @@
-
-#include <cstdlib>
-#include <stdlib.h>
 #include <iostream>
 #include <string>
 using namespace std;
@@ -8,10 +5,6 @@ using namespace std;
 int main()
 {
 char x;
-cout << "trgijperijgdv"<<endl;
-cout << "trgijperijgdv"<<endl;
-cout << "trgijperijgdv"<<endl;
-cout << "trgijperijgdv"<<endl;
 cout << "trgijperijgdv"<<endl;
 cout << "trgijperijgdv"<<endl;
 cin>>x;
